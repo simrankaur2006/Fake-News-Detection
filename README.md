@@ -1,4 +1,17 @@
 # Fake-News-Detection-2
+
+## Contributors
+
+- **Simran Kaur** – Project lead, Frontend development using Streamlit
+- [GitHubUsername](https://github.com/simankaurgulati2006) 
+- **Abhinav Kumar Singh** – Machine Learning Model based on logistic regression
+- [GitHubUsername](https://github.com/abhinav9444)
+- **Praharsh Singh** - Dataset Finding, Testing
+- [GitHubUsername](https://github.com/Praharshhh)
+
+
+
+
 # 📰 Fake News Detection Tool 🧠
 
 This project is a **Fake News Detection System** built using **Machine Learning** to classify news as *Real* or *Fake* based on its textual content. It leverages **Natural Language Processing (NLP)** techniques and a **Logistic Regression** model, integrated with a user-friendly **Streamlit web interface**.
@@ -48,8 +61,10 @@ This project is a **Fake News Detection System** built using **Machine Learning*
 
 ## ⚙️ How to Run
 
-### 📦 Install Requirements
+# 📦 Install Requirements
 ```bash
 pip install -r requirements.txt
+
+
 
 
