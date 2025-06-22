@@ -28,7 +28,9 @@ This project is a **Fake News Detection System** built using **Machine Learning*
 ## 📁 Project Structure
 
 ├── app.py # Streamlit frontend
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project description
 
 
