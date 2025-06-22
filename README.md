@@ -9,6 +9,9 @@
 - **Praharsh Singh** - Dataset Finding, Testing
 - [GitHubUsername](https://github.com/Praharshhh)
 
+## 🚀 Live Demo
+🔗 [View Project](
+https://cw012-fake-news-detection-hm4bfnloearwldd7pucras.streamlit.app/)
 
 
 
