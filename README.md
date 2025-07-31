@@ -3,7 +3,7 @@
 ## Contributors
 
 - **Simran Kaur** – Project lead, Frontend development using Streamlit
-- [GitHubUsername](https://github.com/simrankaurgulati2006) 
+- [GitHubUsername](https://github.com/simrankaur2006) 
 - **Abhinav Kumar Singh** – Machine Learning Model based on logistic regression
 - [GitHubUsername](https://github.com/abhinav9444)
 - **Praharsh Singh** - Dataset Finding, Testing
