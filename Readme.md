@@ -32,10 +32,15 @@ Lightweight and fast — runs locally or can be deployed online
 Fake-News-Detection/
 │
 ├── app.py                # Streamlit app file (web interface)
+
 ├── model.pkl             # Saved Machine Learning model
+
 ├── vectorizer.pkl        # Saved vectorizer
+
 ├── requirements.txt      # List of dependencies
+
 ├── README.md             # Description of  project
+
 └── train.csv             # dataset used
   
 ## 🧠 Model
@@ -47,3 +52,4 @@ Trained using NLP Techniques such as TF-IDF vectorization and Machine Learning a
  cd Fake-News-Detection
  pip install -r requirements.txt
  streamlit run app.py
+
