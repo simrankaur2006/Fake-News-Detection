@@ -21,6 +21,7 @@ Lightweight and fast — runs locally or can be deployed online
 
 # Check the live web interface 
 [https://fake-news-detection-simran.streamlit.app/] live link
+
 Deployed on streamlit web interface using streamlit cloud
 
 
