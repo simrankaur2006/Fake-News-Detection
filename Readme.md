@@ -31,7 +31,7 @@ Deployed on streamlit web interface using streamlit cloud
 - Streamlit
 - Pickle
 - Pandas, Numpy
-- NLP Techniques
+- NLP Techniques(lemmatization, stop words removal, tokenization etc)
 
 
 # Project 
